@@ -1,5 +1,4 @@
 <?php
-die('Hello world');
 session_start();
 /**
  * Created by PhpStorm.
