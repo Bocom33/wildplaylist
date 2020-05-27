@@ -20,7 +20,7 @@ class HomeController extends AbstractController
      * @throws \Twig\Error\RuntimeError
      * @throws \Twig\Error\SyntaxError
      */
-    const PLAYLIST_NB_HOMEPAGE = 3 ;
+    const PLAYLIST_NB_HOMEPAGE = 10 ;
     const MAINWORD_HOMEPAGE_SELECTED_PLAYLISTS= 'tous les temps';
 
     public function index() : string
